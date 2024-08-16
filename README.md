@@ -7,4 +7,4 @@ some random stuff
 .
 .
 
-<h3>Govardhan Reddy Danduvari</h3>
+<h3>🤖 Govardhan Reddy Danduvari</h3>
